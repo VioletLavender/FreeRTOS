@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspace>
+    <project>
+        <path>$WS_DIR$\01_FLASH_Program\EWARM\FLASH_Program.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\05_FLASH_ReadChip_UID\EWARM\FLASH_ReadChip_UID.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\04_FLASH_ReadProtect\EWARM\FLASH_ReadProtect.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\02_FLASH_SimulateEEPROM\EWARM\FLASH_SimulateEEPROM.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\03_FLASH_WriteProtect\EWARM\FLASH_WriteProtect.ewp</path>
+    </project>
+    <batchBuild />
+</workspace>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<ProjectWorkspace xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="project_mpw.xsd">
+
+  <SchemaVersion>1.0</SchemaVersion>
+
+  <Header>### uVision Project, (C) Keil Software</Header>
+
+  <WorkspaceName>WorkSpace</WorkspaceName>
+
+  <project>
+    <PathAndName>.\01_TIM1_PWM_6ChannelOutput\MDK-ARM\TIM1_PWM_6ChannelOutput.uvprojx</PathAndName>
+    <NodeIsActive>1</NodeIsActive>
+  </project>
+
+  <project>
+    <PathAndName>.\02_TIM1_PWM_7ChannelOutput\MDK-ARM\TIM1_PWM_7ChannelOutput.uvprojx</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>.\03_TIM1_PWM_6ChannelOutputWithDeadTime\MDK-ARM\TIM1_PWM_6ChannelOutputWithDeadTime.uvprojx</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>.\04_TIM1_PWM_2ChannelPhase180\MDK-ARM\TIM1_PWM_2ChannelPhase180.uvprojx</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>.\05_TIM1_PWM_3ChannelPhaseShift\MDK-ARM\TIM1_PWM_3ChannelPhaseShift.uvprojx</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>.\06_TIM1_PWM_3ChannelDMAUpdate\MDK-ARM\TIM1_PWM_3ChannelDMAUpdate.uvprojx</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>.\07_TIM1_PWM_1ChannelDMACCR3\MDK-ARM\TIM1_PWM_1ChannelDMACCR3.uvprojx</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>.\08_TIM1_TIM2_MasterSlaveMode\MDK-ARM\TIM1_TIM2_MasterSlaveMode.uvprojx</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>.\09_TIM1_MonoPulse\MDK-ARM\TIM1_MonoPulse.uvprojx</PathAndName>
+  </project>
+
+</ProjectWorkspace>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspace>
+    <project>
+        <path>$WS_DIR$\03_RCC_CSS\EWARM\RCC_CSS.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\02_RCC_HSE_MCO\EWARM\RCC_HSE_MCO.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\01_RCC_HSI_MCO\EWARM\RCC_HSI_MCO.ewp</path>
+    </project>
+    <batchBuild />
+</workspace>

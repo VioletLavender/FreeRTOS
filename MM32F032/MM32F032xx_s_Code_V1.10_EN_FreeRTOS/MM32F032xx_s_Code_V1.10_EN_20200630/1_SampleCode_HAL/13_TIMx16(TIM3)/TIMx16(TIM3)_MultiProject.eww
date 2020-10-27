@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspace>
+    <project>
+        <path>$WS_DIR$\01_TIM3_InputCapture\EWARM\TIM3_InputCapture.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\02_TIM3_InputCapture_HzLevel\EWARM\TIM3_InputCapture_HzLevel.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\03_TIM3_PWM_4ChannelOutput4Hz\EWARM\TIM3_PWM_4ChannelOutput4Hz.ewp</path>
+    </project>
+    <batchBuild />
+</workspace>

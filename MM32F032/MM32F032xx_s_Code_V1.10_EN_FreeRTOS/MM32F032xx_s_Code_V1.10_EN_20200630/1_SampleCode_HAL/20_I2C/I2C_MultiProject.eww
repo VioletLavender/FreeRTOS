@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspace>
+    <project>
+        <path>$WS_DIR$\04_I2C_EEPROM_Master_DMA_Interrupt\EWARM\I2C_EEPROM_Master_DMA_Interrupt.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\03_I2C_EEPROM_Master_DMA_Polling\EWARM\I2C_EEPROM_Master_DMA_Polling.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\05_I2C_EEPROM_Master_GPIO_Simulate\EWARM\I2C_EEPROM_Master_GPIO_Simulate.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\02_I2C_EEPROM_Master_Interrupt\EWARM\I2C_EEPROM_Master_Interrupt.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\01_I2C_EEPROM_Master_Polling\EWARM\I2C_EEPROM_Master_Polling.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\09_I2C_Slave_DMA_Interrupt\EWARM\I2C_Slave_DMA_Interrupt.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\08_I2C_Slave_DMA_Polling\EWARM\I2C_Slave_DMA_Polling.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\10_I2C_Slave_GPIO_Simulate\EWARM\I2C_Slave_GPIO_Simulate.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\07_I2C_Slave_Interrupt\EWARM\I2C_Slave_Interrupt.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\06_I2C_Slave_Polling\EWARM\I2C_Slave_Polling.ewp</path>
+    </project>
+    <batchBuild />
+</workspace>

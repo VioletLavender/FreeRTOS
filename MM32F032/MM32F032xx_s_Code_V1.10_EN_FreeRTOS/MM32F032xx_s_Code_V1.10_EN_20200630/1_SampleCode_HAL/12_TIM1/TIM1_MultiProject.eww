@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspace>
+    <project>
+        <path>$WS_DIR$\09_TIM1_MonoPulse\EWARM\TIM1_MonoPulse.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\07_TIM1_PWM_1ChannelDMACCR3\EWARM\TIM1_PWM_1ChannelDMACCR3.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\04_TIM1_PWM_2ChannelPhase180\EWARM\TIM1_PWM_2ChannelPhase180.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\06_TIM1_PWM_3ChannelDMAUpdate\EWARM\TIM1_PWM_3ChannelDMAUpdate.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\05_TIM1_PWM_3ChannelPhaseShift\EWARM\TIM1_PWM_3ChannelPhaseShift.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\01_TIM1_PWM_6ChannelOutput\EWARM\TIM1_PWM_6ChannelOutput.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\03_TIM1_PWM_6ChannelOutputWithDeadTime\EWARM\TIM1_PWM_6ChannelOutputWithDeadTime.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\02_TIM1_PWM_7ChannelOutput\EWARM\TIM1_PWM_7ChannelOutput.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\08_TIM1_TIM2_MasterSlaveMode\EWARM\TIM1_TIM2_MasterSlaveMode.ewp</path>
+    </project>
+    <batchBuild />
+</workspace>

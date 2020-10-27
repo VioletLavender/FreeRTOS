@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspace>
+    <project>
+        <path>$WS_DIR$\01_TIM2_DelayMs\EWARM\TIM2_DelayMs.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\02_TIM2_InputCapture_HzLevel\EWARM\TIM2_InputCapture_HzLevel.ewp</path>
+    </project>
+    <batchBuild />
+</workspace>

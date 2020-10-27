@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspace>
+    <project>
+        <path>$WS_DIR$\07_UART_HWFlowControl\EWARM\UART_HWFlowControl.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\06_UART_Print_Interrupt\EWARM\UART_Print_Interrupt.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\05_UART_Print_Loop\EWARM\UART_Print_Loop.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\04_UART_TxRx_DMA_Interrupt\EWARM\UART_TxRx_DMA_Interrupt.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\03_UART_TxRx_DMA_Polling\EWARM\UART_TxRx_DMA_Polling.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\02_UART_TxRx_Interrupt\EWARM\UART_TxRx_Interrupt.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\01_UART_TxRx_Polling\EWARM\UART_TxRx_Polling.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\08_UART_WakeUpFromStopByUART\EWARM\UART_WakeUpFromStopByUART.ewp</path>
+    </project>
+    <batchBuild />
+</workspace>

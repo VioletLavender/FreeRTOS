@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<ProjectWorkspace xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="project_mpw.xsd">
+
+  <SchemaVersion>1.0</SchemaVersion>
+
+  <Header>### uVision Project, (C) Keil Software</Header>
+
+  <WorkspaceName>WorkSpace</WorkspaceName>
+
+  <project>
+    <PathAndName>.\01_SPI_Master_Polling\MDK-ARM\SPI_Master_Polling.uvprojx</PathAndName>
+    <NodeIsActive>1</NodeIsActive>
+  </project>
+
+  <project>
+    <PathAndName>.\02_SPI_Master_Interrupt\MDK-ARM\SPI_Master_Interrupt.uvprojx</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>.\03_SPI_Master_DMA_Polling\MDK-ARM\SPI_Master_DMA_Polling.uvprojx</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>.\04_SPI_Master_DMA_Interrupt\MDK-ARM\SPI_Master_DMA_Interrupt.uvprojx</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>.\05_SPI_Slave_Polling\MDK-ARM\SPI_Slave_Polling.uvprojx</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>.\06_SPI_Slave_Interrupt\MDK-ARM\SPI_Slave_Interrupt.uvprojx</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>.\07_SPI_Slave_DMA_Polling\MDK-ARM\SPI_Slave_DMA_Polling.uvprojx</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>.\08_SPI_Slave_DMA_Interrupt\MDK-ARM\SPI_Slave_DMA_Interrupt.uvprojx</PathAndName>
+  </project>
+
+</ProjectWorkspace>

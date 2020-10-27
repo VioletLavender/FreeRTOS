@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspace>
+    <project>
+        <path>$WS_DIR$\04_SPI_Master_DMA_Interrupt\EWARM\SPI_Master_DMA_Interrupt.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\03_SPI_Master_DMA_Polling\EWARM\SPI_Master_DMA_Polling.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\02_SPI_Master_Interrupt\EWARM\SPI_Master_Interrupt.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\01_SPI_Master_Polling\EWARM\SPI_Master_Polling.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\08_SPI_Slave_DMA_Interrupt\EWARM\SPI_Slave_DMA_Interrupt.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\07_SPI_Slave_DMA_Polling\EWARM\SPI_Slave_DMA_Polling.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\06_SPI_Slave_Interrupt\EWARM\SPI_Slave_Interrupt.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\05_SPI_Slave_Polling\EWARM\SPI_Slave_Polling.ewp</path>
+    </project>
+    <batchBuild />
+</workspace>

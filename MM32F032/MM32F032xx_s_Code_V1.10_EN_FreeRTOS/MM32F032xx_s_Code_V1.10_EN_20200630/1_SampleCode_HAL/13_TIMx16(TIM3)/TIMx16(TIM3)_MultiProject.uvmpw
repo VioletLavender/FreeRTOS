@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<ProjectWorkspace xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="project_mpw.xsd">
+
+  <SchemaVersion>1.0</SchemaVersion>
+
+  <Header>### uVision Project, (C) Keil Software</Header>
+
+  <WorkspaceName>WorkSpace</WorkspaceName>
+
+  <project>
+    <PathAndName>.\01_TIM3_InputCapture\MDK-ARM\TIM3_InputCapture.uvprojx</PathAndName>
+    <NodeIsActive>1</NodeIsActive>
+  </project>
+
+  <project>
+    <PathAndName>.\02_TIM3_InputCapture_HzLevel\MDK-ARM\TIM3_InputCapture_HzLevel.uvprojx</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>.\03_TIM3_PWM_4ChannelOutput4Hz\MDK-ARM\TIM3_PWM_4ChannelOutput4Hz.uvprojx</PathAndName>
+  </project>
+
+</ProjectWorkspace>

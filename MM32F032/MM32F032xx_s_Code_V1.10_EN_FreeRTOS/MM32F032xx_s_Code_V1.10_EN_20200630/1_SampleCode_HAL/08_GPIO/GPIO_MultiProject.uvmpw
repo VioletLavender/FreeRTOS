@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<ProjectWorkspace xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="project_mpw.xsd">
+
+  <SchemaVersion>1.0</SchemaVersion>
+
+  <Header>### uVision Project, (C) Keil Software</Header>
+
+  <WorkspaceName>WorkSpace</WorkspaceName>
+
+  <project>
+    <PathAndName>.\01_GPIO_LED\MDK-ARM\GPIO_LED.uvprojx</PathAndName>
+    <NodeIsActive>1</NodeIsActive>
+  </project>
+
+  <project>
+    <PathAndName>.\02_GPIO_KEY\MDK-ARM\GPIO_KEY.uvprojx</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>.\03_GPIO_SWDasGPIO\MDK-ARM\GPIO_SWDasGPIO.uvprojx</PathAndName>
+  </project>
+
+</ProjectWorkspace>

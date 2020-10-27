@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspace>
+    <project>
+        <path>$WS_DIR$\02_GPIO_KEY\EWARM\GPIO_KEY.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\01_GPIO_LED\EWARM\GPIO_LED.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\03_GPIO_SWDasGPIO\EWARM\GPIO_SWDasGPIO.ewp</path>
+    </project>
+    <batchBuild />
+</workspace>

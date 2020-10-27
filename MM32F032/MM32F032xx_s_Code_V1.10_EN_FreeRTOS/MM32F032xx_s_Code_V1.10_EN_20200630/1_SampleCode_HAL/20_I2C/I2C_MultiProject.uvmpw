@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<ProjectWorkspace xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="project_mpw.xsd">
+
+  <SchemaVersion>1.0</SchemaVersion>
+
+  <Header>### uVision Project, (C) Keil Software</Header>
+
+  <WorkspaceName>WorkSpace</WorkspaceName>
+
+  <project>
+    <PathAndName>.\01_I2C_EEPROM_Master_Polling\MDK-ARM\I2C_EEPROM_Master_Polling.uvprojx</PathAndName>
+    <NodeIsActive>1</NodeIsActive>
+  </project>
+
+  <project>
+    <PathAndName>.\02_I2C_EEPROM_Master_Interrupt\MDK-ARM\I2C_EEPROM_Master_Interrupt.uvprojx</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>.\03_I2C_EEPROM_Master_DMA_Polling\MDK-ARM\I2C_EEPROM_Master_DMA_Polling.uvprojx</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>.\04_I2C_EEPROM_Master_DMA_Interrupt\MDK-ARM\I2C_EEPROM_Master_DMA_Interrupt.uvprojx</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>.\05_I2C_EEPROM_Master_GPIO_Simulate\MDK-ARM\I2C_EEPROM_Master_GPIO_Simulate.uvprojx</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>.\06_I2C_Slave_Polling\MDK-ARM\I2C_Slave_Polling.uvprojx</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>.\07_I2C_Slave_Interrupt\MDK-ARM\I2C_Slave_Interrupt.uvprojx</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>.\08_I2C_Slave_DMA_Polling\MDK-ARM\I2C_Slave_DMA_Polling.uvprojx</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>.\09_I2C_Slave_DMA_Interrupt\MDK-ARM\I2C_Slave_DMA_Interrupt.uvprojx</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>.\10_I2C_Slave_GPIO_Simulate\MDK-ARM\I2C_Slave_GPIO_Simulate.uvprojx</PathAndName>
+  </project>
+
+</ProjectWorkspace>

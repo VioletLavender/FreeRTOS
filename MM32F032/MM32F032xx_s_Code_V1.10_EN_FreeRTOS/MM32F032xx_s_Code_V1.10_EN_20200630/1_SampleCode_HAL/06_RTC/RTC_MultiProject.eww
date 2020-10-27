@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspace>
+    <project>
+        <path>$WS_DIR$\01_RTC_Alarm\EWARM\RTC_Alarm.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\04_RTC_Calendar\EWARM\RTC_Calendar.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\03_RTC_Millisecond\EWARM\RTC_Millisecond.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\02_RTC_Second\EWARM\RTC_Second.ewp</path>
+    </project>
+    <batchBuild />
+</workspace>

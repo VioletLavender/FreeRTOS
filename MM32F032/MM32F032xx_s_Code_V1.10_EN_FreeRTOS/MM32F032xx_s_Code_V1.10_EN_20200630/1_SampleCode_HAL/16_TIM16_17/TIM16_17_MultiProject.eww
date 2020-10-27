@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspace>
+    <project>
+        <path>$WS_DIR$\01_TIM16_DelayMs\EWARM\TIM16_DelayMs.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\02_TIM17_DelayMs\EWARM\TIM17_DelayMs.ewp</path>
+    </project>
+    <batchBuild />
+</workspace>

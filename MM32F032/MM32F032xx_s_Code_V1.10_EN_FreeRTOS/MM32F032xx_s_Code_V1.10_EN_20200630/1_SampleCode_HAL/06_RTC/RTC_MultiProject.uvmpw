@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<ProjectWorkspace xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="project_mpw.xsd">
+
+  <SchemaVersion>1.0</SchemaVersion>
+
+  <Header>### uVision Project, (C) Keil Software</Header>
+
+  <WorkspaceName>WorkSpace</WorkspaceName>
+
+  <project>
+    <PathAndName>.\01_RTC_Alarm\MDK-ARM\RTC_Alarm.uvprojx</PathAndName>
+    <NodeIsActive>1</NodeIsActive>
+  </project>
+
+  <project>
+    <PathAndName>.\02_RTC_Second\MDK-ARM\RTC_Second.uvprojx</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>.\03_RTC_Millisecond\MDK-ARM\RTC_Millisecond.uvprojx</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>.\04_RTC_Calendar\MDK-ARM\RTC_Calendar.uvprojx</PathAndName>
+  </project>
+
+</ProjectWorkspace>

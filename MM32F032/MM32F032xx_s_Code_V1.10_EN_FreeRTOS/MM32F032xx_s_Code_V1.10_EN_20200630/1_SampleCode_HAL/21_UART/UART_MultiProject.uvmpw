@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<ProjectWorkspace xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="project_mpw.xsd">
+
+  <SchemaVersion>1.0</SchemaVersion>
+
+  <Header>### uVision Project, (C) Keil Software</Header>
+
+  <WorkspaceName>WorkSpace</WorkspaceName>
+
+  <project>
+    <PathAndName>.\01_UART_TxRx_Polling\MDK-ARM\UART_TxRx_Polling.uvprojx</PathAndName>
+    <NodeIsActive>1</NodeIsActive>
+  </project>
+
+  <project>
+    <PathAndName>.\02_UART_TxRx_Interrupt\MDK-ARM\UART_TxRx_Interrupt.uvprojx</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>.\03_UART_TxRx_DMA_Polling\MDK-ARM\UART_TxRx_DMA_Polling.uvprojx</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>.\04_UART_TxRx_DMA_Interrupt\MDK-ARM\UART_TxRx_DMA_Interrupt.uvprojx</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>.\05_UART_Print_Loop\MDK-ARM\UART_Print_Loop.uvprojx</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>.\06_UART_Print_Interrupt\MDK-ARM\UART_Print_Interrupt.uvprojx</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>.\07_UART_HWFlowControl\MDK-ARM\UART_HWFlowControl.uvprojx</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>.\08_UART_WakeUpFromStopByUART\MDK-ARM\UART_WakeUpFromStopByUART.uvprojx</PathAndName>
+  </project>
+
+</ProjectWorkspace>

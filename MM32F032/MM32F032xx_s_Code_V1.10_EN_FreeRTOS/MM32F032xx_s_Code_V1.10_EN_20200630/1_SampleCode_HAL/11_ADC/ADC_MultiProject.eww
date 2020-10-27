@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspace>
+    <project>
+        <path>$WS_DIR$\07_ADC_AnalogWatchdog\EWARM\ADC_AnalogWatchdog.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\04_ADC_DMA_Interrupt\EWARM\ADC_DMA_Interrupt.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\03_ADC_DMA_Polling\EWARM\ADC_DMA_Polling.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\08_ADC_EXTI_Trigger\EWARM\ADC_EXTI_Trigger.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\02_ADC_Interrupt\EWARM\ADC_Interrupt.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\01_ADC_Polling\EWARM\ADC_Polling.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\06_ADC_TempSensor\EWARM\ADC_TempSensor.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\09_ADC_TIM1_Trigger\EWARM\ADC_TIM1_Trigger.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\10_ADC_TIM1_Trigger_DMA_AnyChannel\EWARM\ADC_TIM1_Trigger_DMA_AnyChannel.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\05_ADC_VoltReference\EWARM\ADC_VoltReference.ewp</path>
+    </project>
+    <batchBuild />
+</workspace>

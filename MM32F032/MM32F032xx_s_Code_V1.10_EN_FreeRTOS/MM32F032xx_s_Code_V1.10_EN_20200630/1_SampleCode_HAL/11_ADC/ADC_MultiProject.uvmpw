@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<ProjectWorkspace xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="project_mpw.xsd">
+
+  <SchemaVersion>1.0</SchemaVersion>
+
+  <Header>### uVision Project, (C) Keil Software</Header>
+
+  <WorkspaceName>WorkSpace</WorkspaceName>
+
+  <project>
+    <PathAndName>.\01_ADC_Polling\MDK-ARM\ADC_Polling.uvprojx</PathAndName>
+    <NodeIsActive>1</NodeIsActive>
+  </project>
+
+  <project>
+    <PathAndName>.\02_ADC_Interrupt\MDK-ARM\ADC_Interrupt.uvprojx</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>.\03_ADC_DMA_Polling\MDK-ARM\ADC_DMA_Polling.uvprojx</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>.\04_ADC_DMA_Interrupt\MDK-ARM\ADC_DMA_Interrupt.uvprojx</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>.\05_ADC_VoltReference\MDK-ARM\ADC_VoltReference.uvprojx</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>.\06_ADC_TempSensor\MDK-ARM\ADC_TempSensor.uvprojx</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>.\07_ADC_AnalogWatchdog\MDK-ARM\ADC_AnalogWatchdog.uvprojx</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>.\08_ADC_EXTI_Trigger\MDK-ARM\ADC_EXTI_Trigger.uvprojx</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>.\09_ADC_TIM1_Trigger\MDK-ARM\ADC_TIM1_Trigger.uvprojx</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>.\10_ADC_TIM1_Trigger_DMA_AnyChannel\MDK-ARM\ADC_TIM1_Trigger_DMA_AnyChannel.uvprojx</PathAndName>
+  </project>
+
+</ProjectWorkspace>

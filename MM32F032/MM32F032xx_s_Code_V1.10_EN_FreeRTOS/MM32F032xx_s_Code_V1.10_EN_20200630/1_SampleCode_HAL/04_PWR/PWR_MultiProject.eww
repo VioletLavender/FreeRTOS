@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspace>
+    <project>
+        <path>$WS_DIR$\08_PWR_CurrentConsumption\EWARM\PWR_CurrentConsumption.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\07_PWR_PVD_Interrupt\EWARM\PWR_PVD_Interrupt.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\06_PWR_PVD_Polling\EWARM\PWR_PVD_Polling.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\03_PWR_WakeUpFromStandbyByGPIO\EWARM\PWR_WakeUpFromStandbyByGPIO.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\04_PWR_WakeUpFromStandbyByIWDG\EWARM\PWR_WakeUpFromStandbyByIWDG.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\01_PWR_WakeUpFromStopByGPIO\EWARM\PWR_WakeUpFromStopByGPIO.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\02_PWR_WakeUpFromStopByRTC\EWARM\PWR_WakeUpFromStopByRTC.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\05_PWR_WakeUpFromWFEByGPIO\EWARM\PWR_WakeUpFromWFEByGPIO.ewp</path>
+    </project>
+    <batchBuild />
+</workspace>

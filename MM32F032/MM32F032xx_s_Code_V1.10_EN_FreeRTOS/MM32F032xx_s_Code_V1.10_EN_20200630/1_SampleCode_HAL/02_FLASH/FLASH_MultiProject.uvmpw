@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<ProjectWorkspace xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="project_mpw.xsd">
+
+  <SchemaVersion>1.0</SchemaVersion>
+
+  <Header>### uVision Project, (C) Keil Software</Header>
+
+  <WorkspaceName>WorkSpace</WorkspaceName>
+
+  <project>
+    <PathAndName>.\01_FLASH_Program\MDK-ARM\FLASH_Program.uvprojx</PathAndName>
+    <NodeIsActive>1</NodeIsActive>
+  </project>
+
+  <project>
+    <PathAndName>.\02_FLASH_SimulateEEPROM\MDK-ARM\FLASH_SimulateEEPROM.uvprojx</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>.\03_FLASH_WriteProtect\MDK-ARM\FLASH_WriteProtect.uvprojx</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>.\04_FLASH_ReadProtect\MDK-ARM\FLASH_ReadProtect.uvprojx</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>.\05_FLASH_ReadChip_UID\MDK-ARM\FLASH_ReadChip_UID.uvprojx</PathAndName>
+  </project>
+
+</ProjectWorkspace>

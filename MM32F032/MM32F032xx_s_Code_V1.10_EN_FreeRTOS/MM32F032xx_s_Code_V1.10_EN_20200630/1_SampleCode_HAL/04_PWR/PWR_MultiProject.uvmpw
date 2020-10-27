@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<ProjectWorkspace xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="project_mpw.xsd">
+
+  <SchemaVersion>1.0</SchemaVersion>
+
+  <Header>### uVision Project, (C) Keil Software</Header>
+
+  <WorkspaceName>WorkSpace</WorkspaceName>
+
+  <project>
+    <PathAndName>.\01_PWR_WakeUpFromStopByGPIO\MDK-ARM\PWR_WakeUpFromStopByGPIO.uvprojx</PathAndName>
+    <NodeIsActive>1</NodeIsActive>
+  </project>
+
+  <project>
+    <PathAndName>.\02_PWR_WakeUpFromStopByRTC\MDK-ARM\PWR_WakeUpFromStopByRTC.uvprojx</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>.\03_PWR_WakeUpFromStandbyByGPIO\MDK-ARM\PWR_WakeUpFromStandbyByGPIO.uvprojx</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>.\04_PWR_WakeUpFromStandbyByIWDG\MDK-ARM\PWR_WakeUpFromStandbyByIWDG.uvprojx</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>.\05_PWR_WakeUpFromWFEByGPIO\MDK-ARM\PWR_WakeUpFromWFEByGPIO.uvprojx</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>.\06_PWR_PVD_Polling\MDK-ARM\PWR_PVD_Polling.uvprojx</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>.\07_PWR_PVD_Interrupt\MDK-ARM\PWR_PVD_Interrupt.uvprojx</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>.\08_PWR_CurrentConsumption\MDK-ARM\PWR_CurrentConsumption.uvprojx</PathAndName>
+  </project>
+
+</ProjectWorkspace>
